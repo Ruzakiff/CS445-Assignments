@@ -1,0 +1,1 @@
+Added reporting if attempt to divide by 0
